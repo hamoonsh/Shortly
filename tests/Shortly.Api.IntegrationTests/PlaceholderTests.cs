@@ -4,5 +4,5 @@ namespace Shortly.Api.IntegrationTests;
 public class PlaceholderTests
 {
     [Fact]
-    public void Project_Compiles() => Assert.True(true);
+    public void Project_Compiles() => Assert.False(true);
 }
